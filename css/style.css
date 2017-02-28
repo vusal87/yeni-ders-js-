@@ -1,0 +1,13 @@
+.gallery{
+	margin:0 auto;
+}
+.galItem{
+	height: 100px;
+	background: green;
+	float: left;
+	border: 1px solid darkgrey;
+	box-sizing: border-box;
+} 
+.clear{
+	/*clear: both;*/
+}
